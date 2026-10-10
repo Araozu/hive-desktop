@@ -14,11 +14,14 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@internationalized/date": "^3.12.4",
     "@tauri-apps/api": "^2.12.2",
     "@tauri-apps/plugin-opener": "^2.7.0",
+    "bits-ui": "^2.19.5",
     "phosphor-svelte": "^3.1.1"
   },
   "devDependencies": {
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
     "@fontsource-variable/jetbrains-mono": "^5.3.0",
     "@sveltejs/adapter-static": "^4.0.0",
     "@sveltejs/kit": "^3.0.1",
