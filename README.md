@@ -6,14 +6,12 @@ This scaffold includes a minimal chat workspace. Daemon transport, chat persiste
 
 ## Development
 
-Install Node.js 24+, Rust stable, and the [Tauri system prerequisites](https://v2.tauri.app/start/prerequisites/) for your operating system.
-
 ```sh
 npm ci
 npm run tauri dev
 ```
 
-For frontend-only development, run `npm run dev` and open `http://localhost:1420`.
+pFor frontend-only development, run `npm run dev` and open `http://localhost:1420`.
 
 ## Validation and builds
 

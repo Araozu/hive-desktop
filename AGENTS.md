@@ -2,6 +2,8 @@
 
 These instructions apply throughout this repository.
 
+For JS stuff, use Vite Plus. Use pnpm, install it globally if noot available. Remove any npm stuff with pnpm.
+
 ## Project and architecture
 
 - Hive is a desktop AI chat client built with Tauri 2, Svelte 5, SvelteKit 3 in static SPA mode, Tailwind CSS 4, shadcn-svelte, and Phosphor icons.
